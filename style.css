@@ -1,0 +1,46 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #fffdf5, #f3e9d2);
+  color: #333;
+  padding: 20px;
+  margin: 0;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+h1 {
+  font-size: 26px;
+  color: #c084fc;
+}
+.intro {
+  font-size: 18px;
+  margin-top: 10px;
+}
+.testimonial {
+  background: #f9f9f9;
+  padding: 15px;
+  border-left: 5px solid #c084fc;
+  margin: 20px 0;
+}
+.cta {
+  text-align: center;
+}
+.btn {
+  background: #c084fc;
+  color: white;
+  text-decoration: none;
+  padding: 15px 25px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.btn:hover {
+  background: #9333ea;
+}
